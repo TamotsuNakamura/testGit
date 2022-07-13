@@ -1,3 +1,4 @@
 # testGit
 
-JIRAとの連携確認2
+JIRAとの連携確認
+コメントとJIRAの連携
