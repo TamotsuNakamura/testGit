@@ -1,9 +1,6 @@
 # testGit
 
-<<<<<<< HEAD
-JIRAとの連携確認
-コメントとJIRAの連携
+NN-Y-002 XXXXXXXXXの改修を行う
+[NN-Y-002 XXXXXXXXX](https://escd.atlassian.net/browse/WBS-11)
 
-
-https://escd.atlassian.net/browse/WBS-11
 
