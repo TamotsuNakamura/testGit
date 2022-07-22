@@ -1,11 +1,6 @@
 # testGit
 
-<<<<<<< HEAD
-JIRAとの連携確認
-コメントとJIRAの連携
-=======
-WBS-12で作成
-2回目のコミット
-WBS-12にコミットした？
-再度、ローカルでブランチ作成
->>>>>>> main
+NN-Y-002 XXXXXXXXXの改修を行う
+[NN-Y-002 XXXXXXXXX](https://escd.atlassian.net/browse/WBS-11)
+
+
