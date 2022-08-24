@@ -1,5 +1,6 @@
 # testGit
 
-WBS-12で作成
-2回目のコミット
-WBS-12にコミットした？
+NN-Y-002 XXXXXXXXXの改修を行う
+[NN-Y-002 XXXXXXXXX](https://escd.atlassian.net/browse/WBS-11)
+
+
